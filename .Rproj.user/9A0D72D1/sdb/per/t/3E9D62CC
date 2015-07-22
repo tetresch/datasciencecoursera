@@ -1,0 +1,18 @@
+{
+    "contents" : "---\ntitle: \"Hello World\"\nauthor: \"Thomas E. Tresch\"\ndate: \"July 22, 2015\"\noutput: html_document\n---\n\n## This is a markdown file\n\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.\n\nWhen you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n```{r}\nsummary(cars)\n```\n\nYou can also embed plots, for example:\n\n```{r, echo=FALSE}\nplot(cars)\n```\n\nNote that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\n",
+    "created" : 1437608005352.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3026100925",
+    "id" : "3E9D62CC",
+    "lastKnownWriteTime" : 1437608168,
+    "path" : "C:/Users/Thomas/datasciencecoursera/HelloWorld.md",
+    "project_path" : "HelloWorld.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "markdown"
+}
